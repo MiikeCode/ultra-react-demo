@@ -1,2 +1,2 @@
-# ultra-react-demo
+# Ultra website (React Demo)
 React demo project
